@@ -1,0 +1,51 @@
+c:\users\pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\bin\Debug\SD_Project.exe.config
+c:\users\pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\bin\Debug\SD_Project.exe
+c:\users\pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\bin\Debug\SD_Project.pdb
+c:\users\pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.csprojResolveAssemblyReference.cache
+c:\users\pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.Form1.resources
+c:\users\pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.Properties.Resources.resources
+c:\users\pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.csproj.GenerateResource.Cache
+c:\users\pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.exe
+c:\users\pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.pdb
+c:\users\pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.Form2.resources
+C:\Users\Pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.admin.resources
+C:\Users\Pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.change_ip.resources
+C:\Users\Pial\documents\visual studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.mainpage.resources
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\bin\Debug\SD_Project.exe.config
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.exe
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.pdb
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\bin\Debug\SD_Project.exe
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\bin\Debug\SD_Project.pdb
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.csprojResolveAssemblyReference.cache
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.admin.resources
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.change_ip.resources
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.Form1.resources
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.Form2.resources
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.mainpage.resources
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.Properties.Resources.resources
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.csproj.GenerateResource.Cache
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.AdminLogin.resources
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.AdminPanel.resources
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.sell_info.resources
+C:\Users\Pial\Documents\Visual Studio 2012\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.stock_info.resources
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\bin\Debug\SD_Project.exe.config
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.exe
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.pdb
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\bin\Debug\SD_Project.exe
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\bin\Debug\SD_Project.pdb
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.csprojResolveAssemblyReference.cache
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.admin.resources
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.AdminLogin.resources
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.AdminPanel.resources
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.change_ip.resources
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.Form1.resources
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.Form2.resources
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.mainpage.resources
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.Properties.Resources.resources
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.sell_info.resources
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.stock_info.resources
+E:\CSE REALATED\C#\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.csproj.GenerateResource.Cache
+C:\Users\Pial\Documents\Visual Studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.AdminLogin.resources
+C:\Users\Pial\Documents\Visual Studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.AdminPanel.resources
+C:\Users\Pial\Documents\Visual Studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.sell_info.resources
+C:\Users\Pial\Documents\Visual Studio 2013\Projects\SD_Project\SD_Project\obj\Debug\SD_Project.stock_info.resources
