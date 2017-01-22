@@ -1,4 +1,4 @@
-#SuperShop Manegement System
+#SuperShop Management System
 
 This project was a desktop application, which was developed for C#. 
 It had two sections, one for owner and another for salesman. 
